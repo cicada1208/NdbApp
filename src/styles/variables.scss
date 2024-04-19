@@ -1,0 +1,15 @@
+// https://vuetifyjs.com/zh-Hans/features/sass-variables/
+// vuetify-loader 會自動將該檔 /src/styles/variables.scss or variables.sass 的變量引導到 Vue CLI 的編譯過程中，覆蓋框架默認值。
+
+// 全局變量 $vuetify:
+// https://vuetifyjs.com/zh-Hans/api/vuetify/
+
+// 定義全站字型
+$body-font-family: 'MicroSoft JhengHei', 'Roboto', sans-serif;
+// $font-size-root: 16px;
+
+$data-table-expanded-content-box-shadow: inset 0 0;
+
+// 自定義變量:
+// 可於全站使用自定義變量 $test-color
+// $test-color: yellow;
